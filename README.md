@@ -129,6 +129,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nikhiltechind/nikhiltechind/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nikhiltechind/nikhiltechind/snake.svg" alt="Snake animation" />
 
 ###
