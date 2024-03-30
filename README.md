@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me <br> <br> Highly skilled in React js, Redux javascript, Html, CSS, Java , Material UI, CSS</h3>
 
 ###
 
