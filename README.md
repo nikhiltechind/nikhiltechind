@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">- MCA from NIT Allahabad, BCA from DAVV Indore<br>- 🔭 I’m working as Associate software Engineer<br>- 📚 I'm currently learning C# , .Net Core and ASP.NET Core<br>- ⚡ In my free time I learn new concepts in frontend and read tech articles.</p>
+<p align="left">- MCA @ NIT Allahabad<br>- 🔭 I’m working as Associate software Engineer<br>- 📚 I'm currently learning C# , .Net Core and ASP.NET Core<br>- ⚡ In my free time I learn new concepts in frontend and read tech articles.</p>
 
 ###
 
