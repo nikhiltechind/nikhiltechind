@@ -14,7 +14,22 @@
 
 <br clear="both">
 
-<p align="left">- MCA @ NIT Allahabad<br>- 🔭 I’m working as Associate software Engineer<br>- 📚 I've 2 years of experience as a Fullstack Engineer. I am having experince in Backend Development using C#/.NET  and Java/SpringBoot, FrontEnd Developmnet using React.js, Mobile Development using .NET MAUI and React Native. I've also worked on Azure and AWS and have worked on writing CI/CD Pipelines.<br>- ⚡ In my free time I learn new concepts in frontend and read tech articles.</p>
+<p align="left">
+
+  🎓 <strong>MCA @ NIT Allahabad</strong><br>
+
+  🔭 <strong>Associate Software Engineer</strong><br>
+
+  📚 I have <strong>2 years of experience as a Full-Stack Engineer</strong>, working across multiple technologies and platforms.<br>
+  &nbsp;&nbsp;&nbsp;• <strong>Backend:</strong> C#/.NET, Java/Spring Boot<br>
+  &nbsp;&nbsp;&nbsp;• <strong>Frontend:</strong> React.js<br>
+  &nbsp;&nbsp;&nbsp;• <strong>Mobile:</strong> .NET MAUI, React Native<br>
+  &nbsp;&nbsp;&nbsp;• <strong>Cloud:</strong> Azure, AWS<br>
+  &nbsp;&nbsp;&nbsp;• <strong>DevOps:</strong> CI/CD pipeline development<br>
+
+  ⚡ In my free time, I enjoy learning new frontend concepts and reading tech articles to stay updated with emerging trends.
+
+</p>
 
 ###
 
