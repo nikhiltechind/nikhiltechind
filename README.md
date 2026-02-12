@@ -18,14 +18,15 @@
 
   🎓 <strong>MCA @ NIT Allahabad</strong><br>
 
-  🔭 <strong>Associate Software Engineer</strong><br>
+  🔭 <strong>Software Engineer</strong><br>
 
-  📚 I have <strong>2 years of experience as a Full-Stack Engineer</strong>, working across multiple technologies and platforms.<br>
+  📚 I have <strong>2+ years of experience as a Full-Stack Engineer</strong>, working across multiple technologies and platforms.<br>
   &nbsp;&nbsp;&nbsp;• <strong>Backend:</strong> C#/.NET, Java/Spring Boot<br>
   &nbsp;&nbsp;&nbsp;• <strong>Frontend:</strong> React.js<br>
   &nbsp;&nbsp;&nbsp;• <strong>Mobile:</strong> .NET MAUI, React Native<br>
   &nbsp;&nbsp;&nbsp;• <strong>Cloud:</strong> Azure, AWS<br>
   &nbsp;&nbsp;&nbsp;• <strong>DevOps:</strong> CI/CD pipeline development<br>
+  &nbsp;&nbsp;&nbsp;• <strong>GEN AI:</strong> Langchain, Langgraph, OpenAI<br>
 
   ⚡ In my free time, I enjoy learning new frontend concepts and reading tech articles to stay updated with emerging trends.
 
